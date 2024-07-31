@@ -1,0 +1,12 @@
+@charset "UTF-8";
+.menu {
+    background-color:rgba(179,168,150,1);
+    border:solid,0.1em;
+    border-radius:0.1em;
+    }
+.logo{
+background-color:rgba(250,218,141,1);
+background-image:none;
+border:solid,0.1em;
+border-radius:0.1em;
+}
